@@ -426,8 +426,8 @@ position: fixed;
 #projectexpansion{
 	position: relative;
 	float: right;
-	width: 100%;
-	margin-top: 125px;
+	width: 76%;
+	margin-top: 15px;
 }
 
 .detail{
@@ -442,24 +442,24 @@ width: 100%;
 
 #infosection{
 	position: fixed;
-	width: 80%;
-	background-color:white;
-	height: 120px;
+	width: 18%;
+	margin-right: 2%;
+	background-color: white;
+	height: 300px;
 	opacity: .7;
 }
 
 #pdata{
 	position: fixed;	
-	width: 70%;
-	margin-left: 5%;
-	margin-right: 5%;
+	width: 18%;
 	margin-top: 10px;
+	margin-right: 2%;
 }
 
 .pdeets{
 	position: relative;
 	float: left;
-	width: 40%;	
+	width: 100%;	
 }
 
 .ptitle{	
@@ -483,23 +483,21 @@ width: 100%;
 .pcontext{
 	position: relative;
 	float: left;
-	clear: none;
-	width: 25%;
+	clear: left;
+	width: 100%;
 	font-size: .7em;
 	color: black;
-	margin-left: 5%;
-	margin-top: 5px;
+	margin-top: 15px;
 }
 
 .pdescription{
 	position: relative;
 	float: left;
-	clear: none;
-	width: 25%;
+	clear: left;
+	width: 100%;
 	font-size: .7em;
 	color: black;
-	margin-left: 5%;
-	margin-top: 5px;
+	margin-top: 15px;
 }
 
 
