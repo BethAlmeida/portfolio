@@ -476,10 +476,20 @@ width: 100%;
 
 .ptype{
 	font-size: .7em;
-	color: #e1715d;
 	margin-bottom: 10px;
 }
-
+.enchromacolor{
+	color: #e1715d;
+}
+.hmnhcolor{
+	color: #269292;
+}
+.terrafluxcolor{
+	color: #69ab79;
+}
+.hereandnowcolor{
+color: #9b1a1a;
+}
 .pcontext{
 	position: relative;
 	float: left;
