@@ -28,9 +28,6 @@ window.location = newLocation;
 });
 
 
-// fade paper plane into color png
-
-
 
 
 // fade bottom piece for footer reveal
@@ -351,7 +348,7 @@ $(function() {
     };
 
     $.fn.typed.defaults = {
-        strings: ["designer", "modern day sorcerer", "seeker of sunshine"],
+        strings: ["designer", "thinker", "dessert enthusiast"],
         // typing speed
         typeSpeed: 0,
         // time before typing starts
@@ -387,7 +384,7 @@ $(function() {
 $(function(){
 
         $("#typed").typed({
-            strings: ["designer", "modern day sorcerer", "seeker of sunshine"],
+            strings: ["designer", "thinker", "dessert enthusiast"],
             typeSpeed: 30,
             backDelay: 1600,
             loop: true,
@@ -691,7 +688,7 @@ $(function(){
     };
 
     $.fn.typed.defaults = {
-        strings: ["learn all the things.", "eat all the ice cream.", "solve the right problems."],
+        strings: ["learn all the things.", "eat all the ice cream.", "solve the important problems."],
         // typing speed
         typeSpeed: 0,
         // time before typing starts
@@ -727,7 +724,7 @@ $(function(){
 $(function(){
 
         $("#typed2").typed({
-            strings: ["learn all the things.", "eat all the ice cream.", "solve the right problems."],
+            strings: ["learn all the things.", "eat all the ice cream.", "solve the important problems."],
             typeSpeed: 30,
             backDelay: 1600,
             loop: true,
