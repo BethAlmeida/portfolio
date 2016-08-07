@@ -28,6 +28,10 @@ window.location = newLocation;
 });
 
 
+// fade paper plane into color png
+
+
+
 
 // fade bottom piece for footer reveal
 
