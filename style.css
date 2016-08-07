@@ -134,10 +134,8 @@ canvas {
 #logo{
 	position: relative;
 	float: left;
-	width: 50px;
-	height: 50px;
-
-background-color: blue;
+	width: 150px;
+	height: 100px;
 }
 
 #brandname{
