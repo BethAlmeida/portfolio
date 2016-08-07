@@ -259,7 +259,16 @@ background-color: blue;
 	position:relative;
 	float: left;
 	font-size: 1.1em;
+	margin-bottom: 30px;
+}
+
+#resume{
+	position:relative;
+	float: left;
+		clear: left;
+	font-size: 1.1em;
 	margin-bottom: 10px;
+
 }
 
 #paperplane{
@@ -525,7 +534,7 @@ color: #9b1a1a;
 
 }
 
-@media (max-width : 800px) and (min-width: 641px) { 
+@media (max-width : 1050px) and (min-width: 641px) { 
 
 #about{
 	width: 80%;
@@ -551,7 +560,7 @@ color: #9b1a1a;
 	width: 100%;
 	font-size: .7em;
 	color: black;
-	margin-top: 15px;
+	margin-top: 5px;
 }
 .pdescription{
 	position: relative;
@@ -570,9 +579,24 @@ color: #9b1a1a;
 	margin-top: 250px;
 }
 
+
+
+}
+/* MEDIA QUERY 1.5 */
+
+@media (max-width : 740px) and (min-width: 640px)  { 
+
+#hmnh1{
+padding-top: 60px;
+}
+#terraflux1{
+padding-top: 30px;
+}
+#hereandnow1{
+	padding-top: 30px;
 }
 
-
+}
 
 /* MEDIA QUERY 2 */
 
@@ -601,6 +625,9 @@ color: #9b1a1a;
 	font-size: .9em;
 }
 #contact{
+	font-size: .9em;
+}
+#resume{
 	font-size: .9em;
 }
 #work{
@@ -650,7 +677,7 @@ color: #9b1a1a;
 	width: 100%;
 	font-size: .7em;
 	color: black;
-	margin-top: 15px;
+	margin-top: 5px;
 }
 .pdescription{
 	position: relative;
@@ -667,6 +694,10 @@ color: #9b1a1a;
 	float: right;
 	width: 100%;
 	margin-top: 300px;
+}
+
+#hmnh1{
+padding-top: 60px;
 }
 
 
