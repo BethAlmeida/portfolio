@@ -139,7 +139,7 @@ canvas {
 #logo{
 	position: relative;
 	float: left;
-	width: 150px;
+	width: 100px;
 	height: 100px;
 }
 
@@ -554,6 +554,8 @@ color: #9b1a1a;
 
 
 @media (max-width : 1050px) and (min-width: 641px) { 
+
+
 
 #about{
 	width: 100%;
