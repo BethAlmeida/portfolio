@@ -185,7 +185,7 @@ canvas {
   left: 0;
   right: 100%;
   bottom: 0;
-  background: #00ADEF;
+  background: #66cef5;
   height: 1.8px;
   -webkit-transition-property: right;
   transition-property: right;
@@ -252,8 +252,8 @@ canvas {
 	font-size: 1.1em;
 	margin-bottom: 30px;
 }
-#typed{color: #00ADEF;}
-#typed2{color: #00ADEF;}
+#typed{color: #66cef5;}
+#typed2{color: #66cef5;}
 
 #contact{
 	position:relative;
