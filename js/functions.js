@@ -348,7 +348,7 @@ $(function() {
     };
 
     $.fn.typed.defaults = {
-        strings: ["designer", "thinker", "dessert enthusiast"],
+        strings: ["designer", "cloud gazer", "dessert enthusiast"],
         // typing speed
         typeSpeed: 0,
         // time before typing starts
@@ -384,7 +384,7 @@ $(function() {
 $(function(){
 
         $("#typed").typed({
-            strings: ["designer", "thinker", "dessert enthusiast"],
+            strings: ["designer", "cloud gazer", "dessert enthusiast"],
             typeSpeed: 30,
             backDelay: 1600,
             loop: true,
