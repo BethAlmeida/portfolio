@@ -481,6 +481,22 @@ position: fixed;
 width: 100%;
 }
 
+
+#cc{
+	position: relative;
+	width: 81.8%;
+	margin-right: 9%;
+	margin-left: 9%;
+	height: 32vw;
+	margin-top: -58%;
+	margin-bottom: 100px;
+    overflow: scroll;
+}
+
+#playweb{
+	overflow: hidden;
+}
+
 #infosection{
 	position: fixed;
 	width: 18%;
@@ -618,6 +634,10 @@ color: #9b1a1a;
 	margin-top: 250px;
 }
 
+#cc{
+	height: 42vw;
+}
+
 
 
 }
@@ -740,6 +760,10 @@ padding-top: 30px;
 
 #hmnh1{
 padding-top: 60px;
+}
+
+#cc{
+	height: 42vw;
 }
 
 
