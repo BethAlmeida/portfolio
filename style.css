@@ -165,9 +165,20 @@ canvas {
 	margin-left: 50px;
 	font-size: .9em;
 	padding-bottom: 2px;
-
 }
 
+#b{
+color: #43C7F4;
+	font-family: apercu-bold;
+}
+#a{
+color: #ED3F6F;
+	font-family: apercu-bold;
+}
+#creative{
+/*color: #6F90B5;
+font-size: 1.1em;*/
+}
 
 
 /* Underline From Left */
@@ -535,10 +546,14 @@ width: 100%;
 	margin-bottom: 10px;
 	text-transform: uppercase;
 			letter-spacing: .1em;
-			font-family: 'apercu-bold', sans-serif;
-			font-weight: bold;
+			font-family: 'apercu', sans-serif;
 
 }
+
+.boldbody{
+	font-family: apercu-bold;
+}
+
 
 .ptype{
 	font-size: .7em;
