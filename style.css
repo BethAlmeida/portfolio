@@ -554,6 +554,14 @@ width: 100%;
 	font-family: apercu-bold;
 }
 
+.boldbody a{
+	font-family: apercu-bold;
+}
+
+.boldbody a:hover{
+color: #43C7F4;
+}
+
 
 .ptype{
 	font-size: .7em;
