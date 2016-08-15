@@ -66,7 +66,7 @@ a {
          -o-transition: all 0.5s;
             transition: all 0.5s;
 
-    font-family: 'apercu-mono-webfont', Courier, monospace; 
+    font-family: 'Source Code Pro', 'apercu-mono-webfont', Courier, monospace; 
 	font-size-adjust: 0.5; 
 	font-weight: normal; 
 	font-style: normal;
@@ -78,13 +78,12 @@ a {
 
 
 body {
-	font-family: 'apercu-mono-webfont', Courier, monospace; 
+	font-family: 'Source Code Pro', 'apercu-mono-webfont', Courier, monospace; 
 	font-weight: normal; 
 	font-style: normal;
 }
 
-@font-face {
-    font-family: 'apercu-mono-webfont';
+/*    font-family: 'apercu-mono-webfont';
     	src: url('font/apercu-mono-webfont.eot');
     	src: url('font/apercu-mono-webfont.eot?#iefix') 
     format('embedded-opentype'),
@@ -94,7 +93,7 @@ body {
     format('svg');
     	font-weight: normal;
     	font-style: normal;
-}
+}*/
 
 
 canvas {
@@ -169,11 +168,11 @@ canvas {
 
 #b{
 color: #43C7F4;
-	font-family: apercu-bold, Helvetica, sans-serif;
+	font-family: 'Source Sans Pro', 'apercu-bold', Helvetica, sans-serif;
 }
 #a{
 color: #ED3F6F;
-	font-family: apercu-bold, Helvetica, sans-serif;
+	font-family: 'Source Sans Pro', 'apercu-bold', Helvetica, sans-serif;
 }
 #creative{
 /*color: #6F90B5;
@@ -292,7 +291,8 @@ font-size: 1.1em;*/
 	font-size: 1.1em;
 	margin-bottom: 10px;
 	margin-left: 10px;
-	font-family: apercu-bold;
+	font-family: 'Source Sans Pro', 'apercu-bold', Helvetica, sans-serif;
+	font-weight: 700;
 
 }
 
@@ -546,16 +546,18 @@ width: 100%;
 	margin-bottom: 10px;
 	text-transform: uppercase;
 			letter-spacing: .1em;
-			font-family: 'apercu', Helvetica, sans-serif;
+			font-family: 'Source Sans Pro', 'apercu', Helvetica, sans-serif;
 
 }
 
 .boldbody{
-	font-family: apercu-bold;
+	font-family: 'Source Sans Pro', 'apercu-bold';
+	font-weight: 700;
 }
 
 .boldbody a{
-	font-family: apercu-bold;
+	font-family: 'Source Sans Pro', 'apercu-bold';
+	font-weight: 700;
 }
 
 .boldbody a:hover{
@@ -589,7 +591,7 @@ color: #9b1a1a;
 	line-height: 1.5em;
 	color: black;
 	margin-top: 15px;
-		font-family: 'apercu', Helvetica, sans-serif;
+		font-family: 'Source Sans Pro', 'apercu', Helvetica, sans-serif;
 
 
 }
@@ -602,7 +604,7 @@ color: #9b1a1a;
 	line-height: 1.5em;
 	color: black;
 	margin-top: 15px;
-		font-family: 'apercu', Helvetica, sans-serif;
+		font-family: 'Source Sans Pro', 'apercu', Helvetica, sans-serif;
 
 
 }
