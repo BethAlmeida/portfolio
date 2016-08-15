@@ -692,8 +692,19 @@ padding-top: 30px;
 	margin-right: auto;
 	margin-left: auto;
 }
+
+#logo{
+	width: 75px;
+	height: 75px;
+}
+
 #navigation li{
 	margin-left: 25px;
+		font-size: .8em;
+}
+#brandname{
+	margin-top: 15px;
+	font-size: .8em;
 }
 
 #about{
@@ -790,6 +801,10 @@ padding-top: 60px;
 
 #cc{
 	height: 42vw;
+}
+
+.mobilebump{
+	display: block;
 }
 
 
