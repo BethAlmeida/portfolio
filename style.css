@@ -238,6 +238,7 @@ font-size: 1.1em;*/
 
 	overflow: auto;
 	z-index: 8;
+	background-color: white;
 }
 
 #worklink{
