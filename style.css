@@ -511,7 +511,7 @@ width: 100%;
 	position: fixed;
 	width: 18%;
 	margin-right: 2%;
-	background-color: white;
+	background-color: transparent;
 	height: 300px;
 	opacity: .7;
 }
