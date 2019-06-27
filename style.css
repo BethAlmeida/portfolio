@@ -276,11 +276,11 @@ font-size: 1.1em;*/
 }
 
 #statement{
-	font-size: 1.1em;
+	font-size: 1.3em;
 	margin-bottom: 10px;
 }
 #statement2{
-	font-size: 1.1em;
+	font-size: 1.3em;
 	margin-bottom: 30px;
 }
 #typed{color: #66cef5;}
@@ -289,26 +289,31 @@ font-size: 1.1em;*/
 #contact{
 	position:relative;
 	float: left;
-	font-size: 1.1em;
-	margin-bottom: 30px;
+	font-size: 1.3em;
+	margin-bottom: 50px;
 }
 
 #resume{
-	position:relative;
+position:relative;
 	float: left;
 	clear: left;
-	font-size: 1.1em;
-	margin-bottom: 10px;
+	margin-bottom: 0px;
+	font-size: .75em;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	font-family: 'Source Sans Pro', 'apercu', Helvetica, sans-serif;
 }
 
 #resumelink{
 	position:relative;
 	float: left;
-	font-size: 1.1em;
 	margin-bottom: 10px;
-	margin-left: 10px;
-	font-family: 'Source Sans Pro', 'apercu-bold', Helvetica, sans-serif;
-	font-weight: 700;
+	margin-left: 6px;
+	font-family: 'Source Sans Pro', 'apercu', Helvetica, sans-serif;
+	font-size: .75em;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	font-weight: bold;
 
 }
 
@@ -421,9 +426,12 @@ opacity: 0;
 }
 
 .projectinfo {
-	font-size: 14px;
-	margin-top: 18px;
+margin-top: 18px;
 	text-align: left;
+	font-size: .75em;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	font-family: 'Source Sans Pro', 'apercu', Helvetica, sans-serif;
 }
 
 .projectdata {
